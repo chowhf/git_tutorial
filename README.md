@@ -2,4 +2,4 @@
 
 - feature-A
 - fix-B
-- feacher
+- feature
